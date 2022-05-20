@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">Remote Socket</string>
+    <string name="exit">Exit</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="temperature">temp</string>
+    <string name="gps" translatable="false">GPS</string>
+    <string name="message_log"><u>Message Log:</u></string>
+    <string name="send">Send</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="clear">Clear</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="connected">Connected</string>
+    <string name="export">Save log</string>
+    <string name="time">time</string>
+    <string name="update">update</string>
+    <string name="ipv4" translatable="false">IPv4</string>
+    <string name="stop">STOP</string>
+    <string name="start">START</string>
+    <string name="loop">Loop</string>
+    <string name="empty" translatable="false"> </string>
+    <string name="sync">Sync</string>
+    <string name="save">Save</string>
+    <string name="color">Color</string>
+    <string name="pump_switch" translatable="false">Pump Switch</string>
+    <string name="pump_a" translatable="false">Pump A</string>
+    <string name="pump_b" translatable="false">Pump B</string>
+    <string name="pump_c" translatable="false">Pump C</string>
+    <string name="pump_d" translatable="false">Pump D</string>
+    <string name="pump_ab" translatable="false">Pump AB</string>
+    <string name="pump_ac" translatable="false">Pump AC</string>
+    <string name="pump_bd" translatable="false">Pump BD</string>
+    <string name="pump_cd" translatable="false">Pump CD</string>
+    <string name="csv" translatable="false"><u>CSV:</u></string>
+    <string name="csvHead" translatable="false">"Time", "Temperature", "GPS"</string>
+</resources>

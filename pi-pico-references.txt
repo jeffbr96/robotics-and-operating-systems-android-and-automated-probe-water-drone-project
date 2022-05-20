@@ -1,0 +1,8 @@
+https://www.instructables.com/Servo-Motor-Control-Using-Raspberry-Pi-Pico/
+GPS## https://lastminuteengineers.com/neo6m-gps-arduino-tutorial/
+wifi## https://help.ubidots.com/en/articles/5097358-connect-a-raspberry-pi-pico-with-ubidots-using-an-esp8266
+http://helloraspberrypi.blogspot.com/2021/02/tcp-socket-communication-between-rpi.html
+https://www.pubnub.com/blog/socket-programming-in-python-client-server-p2p/
+https://sparklers-the-makers.github.io/blog/robotics/use-neo-6m-module-with-raspberry-pi/
+https://microcontrollerslab.com/dc-motor-l298n-driver-raspberry-pi-pico-tutorial/
+https://microcontrollerslab.com/neo-6m-gps-module-raspberry-pi-pico-micropython/ //setting up neo6m gps

@@ -1,0 +1,82 @@
+Current compass: N
+upper latitude boundary: 1
+current latitude: 0.0
+lower latitude boundary: 2
+upper longitude boundary: 3
+current longitude: <io.TextIOWrapper>
+lower longitude boundary: 4
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Current compass: N
+upper latitude boundary: 1
+current latitude: 0.0
+lower latitude boundary: 2
+upper longitude boundary: 3
+current longitude: <io.TextIOWrapper>
+lower longitude boundary: 4
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Current compass: N
+upper latitude boundary: 1
+current latitude: 0.0
+lower latitude boundary: 2
+upper longitude boundary: 3
+current longitude: <io.TextIOWrapper>
+lower longitude boundary: 4
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Current compass: N
+upper latitude boundary: 1
+current latitude: 0.0
+lower latitude boundary: 2
+upper longitude boundary: 3
+current longitude: <io.TextIOWrapper>
+lower longitude boundary: 4
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Current compass: N
+upper latitude boundary: 1
+current latitude: 0.0
+lower latitude boundary: 2
+upper longitude boundary: 3
+current longitude: <io.TextIOWrapper>
+lower longitude boundary: 4
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Current compass: N
+upper latitude boundary: 1
+current latitude: 0.0
+lower latitude boundary: 2
+upper longitude boundary: 3
+current longitude: <io.TextIOWrapper>
+lower longitude boundary: 4
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Current compass: N
+upper latitude boundary: 1
+current latitude: 0.0
+lower latitude boundary: 2
+upper longitude boundary: 3
+current longitude: <io.TextIOWrapper>
+lower longitude boundary: 4
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under
+Compass: N A pump running; latitude under

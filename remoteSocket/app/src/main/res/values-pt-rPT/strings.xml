@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exit">Saída</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="message_log"><u>Mensagens Registro:</u></string>
+    <string name="send">Mandar</string>
+    <string name="enter_message">Digite a mensagem</string>
+    <string name="connection_status">Status da conexão</string>
+    <string name="clear">Limpar</string>
+    <string name="not_connected">Não conectado</string>
+    <string name="connected">Conectado</string>
+    <string name="export">Salvar registro</string>
+    <string name="time">tempo</string>
+    <string name="update">atualizar</string>
+    <string name="stop">TERMINAR</string>
+    <string name="sync">Sincronizar</string>
+    <string name="save">Salve</string>
+    <string name="temperature">temperatura</string>
+    <string name="start">COMEÇAR</string>
+    <string name="loop">Espiral</string>
+    <string name="color">Cor</string>
+</resources>

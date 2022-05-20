@@ -1,0 +1,1 @@
+https://aws.amazon.com/blogs/mobile/using-amazon-dynamodb-document-api-with-the-aws-mobile-sdk-for-android-part-2/
